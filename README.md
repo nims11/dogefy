@@ -5,3 +5,8 @@ Visit <a href="http://nims11.github.io/dogefy">nims11.github.io/dogefy</a> for b
 Look ma! wow everywhere!
 
 <img src='http://i.imgur.com/bT8hH1F.gif' />
+
+TODO
+----
+- Doge-fication of words
+- Rid the internet of Cate Videos
